@@ -3,13 +3,13 @@ package patternPrograms;
 import java.util.Scanner;
 
 /* Print the following pattern
- * 	n = 5
- * 	* * * * *
- *  * * * * *
- *  * * * * *
- *  * * * * *
- *  * * * * *
- *
+  	n = 5
+   * * * * *
+   * * * * *
+   * * * * *
+   * * * * *
+   * * * * *
+ 
  */
 public class Pattern_Square_01 {
 	public static void main(String args[]) {
