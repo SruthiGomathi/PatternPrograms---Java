@@ -1,4 +1,4 @@
-/* Print the given pattern:
+/*  Print the given pattern:
  
 Input:
 N= 3, M=3
